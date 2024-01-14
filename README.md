@@ -1,5 +1,7 @@
 # Overview
 
+Hey! This is a quick tutorial of Python in VS Code on Git! 
+
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
 {Provide a description of your software}
@@ -8,7 +10,7 @@
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtube.com/shorts/FRedJCyDL74?feature=share)
 
 # Development Environment
 
@@ -20,4 +22,4 @@
 
 {Make a list of websites that you found helpful in this project}
 * [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Click My Youtube Video Here! ->]()
